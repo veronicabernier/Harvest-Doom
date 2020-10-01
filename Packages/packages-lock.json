@@ -42,7 +42,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
+<<<<<<< HEAD
       "version": "2.1.1",
+=======
+      "version": "2.0.1",
+>>>>>>> ce2d6e17b5d74cc6c05fd06a810003b57ec424ef
       "depth": 0,
       "source": "registry",
       "dependencies": {
