@@ -4,6 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Barrier
+  - Border
+  - Obstacle
   layers:
   - Default
   - TransparentFX
